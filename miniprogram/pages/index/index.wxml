@@ -1,0 +1,5 @@
+<!--miniprogram/pages/index/index.wxml-->
+<view style="z-index:-1;"><image class="hole" src="{{src_1}}"></image></view>
+<view class="keke" ><image bindtap="sayHello" class="keke_image"  src="{{src_2}}" mode="aspectFit" ><button open-type="getUserInfo" class="keke_button" ></button></image></view>
+<image src="{{src_3}}" class="bottom_text" mode="widthFix" ></image>
+

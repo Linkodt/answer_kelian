@@ -1,0 +1,4 @@
+<!--miniprogram/pages/pj_success/pj_success.wxml-->
+<view style="z-index:-1;"><image class="hole" src="cloud://kodt-kelian-r5vfd.6b6f-kodt-kelian-r5vfd-1302937988/底图2.png"></image></view>
+<image src="cloud://kodt-kelian-r5vfd.6b6f-kodt-kelian-r5vfd-1302937988/pj_success.png" class="head_line" mode="widthFix" ></image>
+<image src="cloud://kodt-kelian-r5vfd.6b6f-kodt-kelian-r5vfd-1302937988/返回首页.png" class="head_line_1" mode="widthFix" bindtap="go_first" ></image>

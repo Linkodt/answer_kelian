@@ -1,0 +1,16 @@
+/* miniprogram/pages/pj_false/pj_false.wxss */
+.hole{
+  position: absolute;
+  width:100vw;
+  height: 100vh;
+}
+.head_line{
+  width: 550rpx;
+  /* height: 400rpx; */
+  z-index: 9999; 
+  position: relative;
+  display: block;
+  top: 35vh;
+  left: 15vw;
+  /* border-radius: 25px 25px 25px 25px; */
+}

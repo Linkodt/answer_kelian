@@ -1,0 +1,6 @@
+<!--miniprogram/pages/page_2/page_2.wxml-->
+<view style="z-index:-1;"><image class="hole" src="cloud://kodt-kelian-r5vfd.6b6f-kodt-kelian-r5vfd-1302937988/底图2.png"></image></view>
+<image src="cloud://kodt-kelian-r5vfd.6b6f-kodt-kelian-r5vfd-1302937988/图层 29 拷贝 2.png" class="bottom_text_1" bindtap="pj_function" mode="widthFix" ></image>
+<image src="cloud://kodt-kelian-r5vfd.6b6f-kodt-kelian-r5vfd-1302937988/图层 29 拷贝.png" class="bottom_text_2" bindtap="as_function" mode="widthFix" ></image>
+<button open-type="getUserInfo" size="mini" plain="true" style="color:white;border:0;" bindgetuserinfo="getUserInfo" class="page_2_button" >{{button_text}}</button>
+

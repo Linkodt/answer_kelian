@@ -1,0 +1,65 @@
+/* miniprogram/pages/as_func/as_func.wxss */
+.hole{
+  position: absolute;
+  width:100vw;
+  height: 100vh;
+}
+.head_line{
+  width: 500rpx;
+  /* height: 400rpx; */
+  z-index: 9999; 
+  position: relative;
+  display: block;
+  top: 120rpx;
+  left: 20vw;
+  /* border-radius: 25px 25px 25px 25px; */
+}
+.heng_kuang{
+  z-index: 9999; 
+  position: relative;
+  display: block;
+  width: 80vw;
+  height:350rpx;
+  border-radius: 25rpx 25rpx 25rpx 25rpx;
+  /* background-color: #e5e5e5; */
+  background: rgba(225, 215, 212, 0.8);
+  left: 10vw;
+  top: 120rpx;
+  
+}
+.kuang_img{
+  width: 120rpx;
+  position: fixed;
+  top:320rpx;
+  left: 15vw;
+}
+.kuang_title{
+  color: #000000;
+  font-size: 30rpx;
+  font-weight: bold;
+  padding-left: 20rpx;
+  padding-right: 20rpx;
+  padding-top: 50rpx;
+  /* padding-bottom: 50rpx; */
+}
+.kuang_title_text{
+  margin-left: 20rpx;
+  font-size: 20rpx;
+}
+.choice{
+  z-index: 9999; 
+  position: relative;
+  /* display: block; */
+  width: 70vw;
+  height:100rpx;
+  border-radius: 50rpx 50rpx 50rpx 50rpx;
+  /* background-color: #e5e5e5; */
+  background: rgba(225, 215, 212, 0.8);
+  left: 15vw;
+  top: 150rpx;
+  margin-top: 40rpx;
+  text-align: center;
+  /* padding-top: 20rpx; */
+  /* vertical-align: middle; */
+  line-height:50px;
+}

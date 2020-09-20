@@ -1,0 +1,27 @@
+/* miniprogram/pages/page_2/page_2.wxss */
+.hole{
+  position: absolute;
+  width:100vw;
+  height: 100vh;
+}
+.bottom_text_1{
+  z-index: 99999; 
+  position: relative;
+  width: 500rpx;
+  top: 35vh;
+  left: 18vw;
+}
+.bottom_text_2{
+  z-index: 99999; 
+  position: relative;
+  width: 500rpx;
+  top: 42vh;
+  left: 18vw;
+}
+.page_2_button{
+  margin-left: 75vw;
+  /* margin-top: 150rpx; */
+  z-index: 99999;
+  
+}
+.page_2_button::after{ border: 0; }

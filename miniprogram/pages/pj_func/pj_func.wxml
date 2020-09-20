@@ -1,0 +1,11 @@
+<!--miniprogram/pages/pj_func/pj_func.wxml-->
+<view style="z-index:-1;"><image class="hole" src="cloud://kodt-kelian-r5vfd.6b6f-kodt-kelian-r5vfd-1302937988/底图.png"></image></view>
+<image src="{{src}}" mode="widthFix" class="head_img" ></image>
+<image src="cloud://kodt-kelian-r5vfd.6b6f-kodt-kelian-r5vfd-1302937988/有奖问答游戏.png" class="head_line" mode="widthFix" ></image>
+<view class="heng_kuang" >
+<view class="kuang_title" >请输入一个字符串<text class="kuang_title_text" >(点击键盘上的发送)</text></view>
+<input style="background-color:#e1d7d4;" confirm-send="send"  class="kuang_input" bindconfirm="confrim" ></input>
+<view class="kuang_mo"><text>答案隐藏在vr各个角落，快去寻找吧\n  关注科联公众号获取vr链接</text></view>
+<!-- <image src="cloud://kodt-kelian-r5vfd.6b6f-kodt-kelian-r5vfd-1302937988/VR链接.png" mode="widthFix" class="vr_src" bindtap="vr2" ></image> -->
+</view>
+

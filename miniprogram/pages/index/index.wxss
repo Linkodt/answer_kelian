@@ -1,0 +1,25 @@
+/* miniprogram/pages/index/index.wxss */
+.hole{
+  position: absolute;
+  width:100vw;
+  height: 100vh;
+}
+.keke{
+  display: block;
+}
+.keke_image{
+  width: 400rpx;
+  height: 400rpx;
+  z-index: 9999; 
+  position: relative;
+  display: block;
+  top: 50vh;
+  left: 10vw;
+}
+.bottom_text{
+  z-index: 99999; 
+  position: relative;
+  width: 400rpx;
+  top: 60vh;
+  left: 25vw;
+}

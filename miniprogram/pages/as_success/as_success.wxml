@@ -1,0 +1,14 @@
+<!--miniprogram/pages/as_success/as_success.wxml-->
+<view style="z-index:-1;"><image class="hole" src="cloud://kodt-kelian-r5vfd.6b6f-kodt-kelian-r5vfd-1302937988/back_3.png"></image></view>
+<!-- style="background-repeat: no-repeat;background-size:100% 100%;background-image: url('https://6b6f-kodt-kelian-r5vfd-1302937988.tcb.qcloud.la/back.png?sign=fd1cc8991f3c4dfd682bd9cebd80a877&t=1599046988');" -->
+<!-- <view class="heng_kuang" wx:if="{{isshow}}"  > -->
+<view class="head_head" >
+<image src="{{src}}" class="head_line_1" mode="widthFix"  ></image>
+<text class="head_line_text" >{{name}}\t积分:{{jifen}}</text>
+</view>
+<view>
+<image mode="widthFix" class="card" src="cloud://kodt-kelian-r5vfd.6b6f-kodt-kelian-r5vfd-1302937988/back_2.png" bindtap="go_first" ></image>
+</view>
+<!-- <view class="kuang_title" ><text>\n\n校科联：\n\n感谢您参与本次游戏，\n\n点击右上角的三个点分享答题小程序到朋友圈邀请好友共同参与游戏，\n每成功邀请一位好友，可以获得1个积分，\n积分达到20即可获得我们为您准备的开学大礼包一份。\n\n请在【9月10号-9月12号】（未定）内前往创客空间1楼前台领取您的奖品。\n\n下方也有我们为您准备的电信校园卡优惠办理套餐。\n快邀请您的小伙伴一起来参与吧！</text></view> -->
+<!-- <image class="kuang_img"  src="../../images/图层 2.png" mode="widthFix" ></image> -->
+<!-- </view> -->

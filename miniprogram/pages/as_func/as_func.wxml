@@ -1,0 +1,10 @@
+<!--miniprogram/pages/as_func/as_func.wxml-->
+<view style="z-index:-1;"><image class="hole" src="cloud://kodt-kelian-r5vfd.6b6f-kodt-kelian-r5vfd-1302937988/图层 1.png"></image></view>
+<view class="heng_kuang" >
+<view class="kuang_title" >{{title}}</view>
+<image class="kuang_img"  src="cloud://kodt-kelian-r5vfd.6b6f-kodt-kelian-r5vfd-1302937988/图层 2.png" mode="widthFix" ></image>
+</view>
+<view class="choice" wx:for="{{list}}" wx:key="item" bindtap="choose" data-tap="{{item}}" data-bind="{{index}}" wx:if="{{isshow}}" >
+<!-- <text class="choice_text">{{item}}</text> -->
+{{item}}
+</view>

@@ -1,0 +1,2 @@
+<!--miniprogram/pages/web_src/web_src.wxml-->
+<web-view src="http://yrym.winsun-aly.com/gdtel-xyzx-hhr/customer/chooseCard.do?id=10268&sell=3" ></web-view>

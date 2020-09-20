@@ -1,0 +1,21 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/as_func/as_func",
+    "pages/pj_false/pj_false",
+    "pages/pj_func/pj_func",
+    "pages/page_2/page_2",
+    "pages/pj_success/pj_success",
+    "pages/as_success/as_success",
+    "pages/web_src/web_src"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#FFFFFF",
+    "navigationBarTitleText": "SCAU AIE",
+    "navigationBarTextStyle": "black"
+  },
+  "style": "v2",
+  "disableScroll": true,
+  "sitemapLocation": "sitemap40.json"
+}

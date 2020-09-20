@@ -1,0 +1,26 @@
+/* miniprogram/pages/pj_success/pj_success.wxss */
+.hole{
+  position: absolute;
+  width:100vw;
+  height: 100vh;
+}
+.head_line{
+  width: 600rpx;
+  /* height: 400rpx; */
+  z-index: 9999; 
+  position: relative;
+  display: block;
+  top: 400rpx;
+  left: 10vw;
+  /* border-radius: 25px 25px 25px 25px; */
+}
+.head_line_1{
+  width: 400rpx;
+  /* height: 400rpx; */
+  z-index: 9999; 
+  position: relative;
+  display: block;
+  top: 500rpx;
+  left: 25vw;
+  /* border-radius: 25px 25px 25px 25px; */
+}
